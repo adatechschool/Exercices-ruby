@@ -1,0 +1,21 @@
+Ils sont classés par ordre de difficulté, le must c'est de les faire sans regarder les solutions, mais si ça bloque c'est ok de regarder la solution un peu, puis de la cacher et d'essayer de refaire par soi-même. 
+
+Meme pour ce genre de petits programmes, il y a déjà plein de façons de faire, je propose une seule solution à chaque fois mais ça peut être intéressant d'en trouver d'autres !
+
+Niveau 0 
+Ecrire un programme qui écrit BONJOUR (ou n'importe quoi d'autre) au bout de une seconde
+
+Niveau 1
+Ecrire un programme qui ecrit BONJOUR au bout d'une seconde, puis recommence, 10 fois. 
+
+Niveau 2
+Ecrire un programme qui demande à l'utilisateur son prénom et lui répond Bonjour + le prénom rentré
+
+Niveau 3
+Ecrire un programme qui demande à l'utilisateur son prénom, puis lui demande son âge et répond "Bonjour -le prénom- tu as -l'age- ans"
+
+Niveau 4 
+Ecrire un programme qui demande à l'utilisateur son prénom, puis son âge et répond "Bonjour -prénom- tu es né en -année de naissance-"
+
+Niveau 5 
+Ecrire un programme qui te demande d'écrire un mot, si le mot fait moins de 7 lettres, le programme répond "j'adore le mot -mot-", si il fait 7 lettres ou plus il répond "j'ai la flemme d'écrire ce mot, il est beaucoup trop long
